@@ -1,7 +1,7 @@
 # teste_item2
 - Resposta do item 2 do teste de programador
 
-# descrição funcional do programa
+# Descrição Funcional do Programa
 - O programa realiza a contagem de 1 até 100 
 - Para todos os números calcula-se se é múltiplo de 3 ou 5.
 - Os dados são printados sempre em uma linha nova
