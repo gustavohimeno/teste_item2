@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 int main()
-    {
+{
     //inicia contagem de 1 até 100
     for(int num = 1; num <= 100; num++)
-        {   
+    {   
         //calcula se é múltipo de 3 
         int mult_3 = num%3;
         //calcula se é múltiplo de 5
@@ -31,7 +31,4 @@ int main()
         {
             printf("%i\n", num); 
         }
-    
-        }
-    return 0;
     };
