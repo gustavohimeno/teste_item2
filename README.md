@@ -1,12 +1,12 @@
 # teste_item2
-- Resposta do item 2 do teste de programador
+- This repository presents the solution for the question 2.
 
 # Descrição Funcional do Programa
-- O programa realiza a contagem de 1 até 100 
-- Para todos os números calcula-se se é múltiplo de 3 ou 5.
-- Os dados são printados sempre em uma linha nova
-- Verifica se o número é múltiplo de 3 e 5, em caso afirmativo, printa FooBaa
-- Em caso negativo, ele verifica se é múltiplo de 3 ou 5:
-	-> Caso seja múltiplo de 3, printa Foo
-	-> Caso seja múltiplo de 5, printa Baa
-- Caso não seja múltiplo nem de 3 e nem de 5, printa o número
+- The main program counts from 1 to 100. 
+- All the numbers have calculated if they multiples of 3 and 5.
+- All data is printed on a new line.
+- Checks if the number is multiple of 3 and 5, if so, prints FooBaa.
+- If not, it checks if the number is multiple of 3 or 5:
+	-> If it multiple of 3, prints Foo.
+	-> If it is multiple of 5, prints Baa,
+- If it not multiple of any, it prins the number.
